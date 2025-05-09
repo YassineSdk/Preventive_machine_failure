@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/707435270127683606/1891ef3349084c66b995d2a205e32943/artifacts
+deleted_time: 1746531728142
+end_time: null
+entry_point_name: ''
+experiment_id: '707435270127683606'
+lifecycle_stage: deleted
+run_id: 1891ef3349084c66b995d2a205e32943
+run_name: 'Support_vector_machine '
+run_uuid: 1891ef3349084c66b995d2a205e32943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746530972524
+status: 1
+tags: []
+user_id: ayman

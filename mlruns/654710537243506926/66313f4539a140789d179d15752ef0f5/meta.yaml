@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/66313f4539a140789d179d15752ef0f5/artifacts
+end_time: 1746556067954
+entry_point_name: ''
+experiment_id: '654710537243506926'
+lifecycle_stage: active
+run_id: 66313f4539a140789d179d15752ef0f5
+run_name: lightgbm
+run_uuid: 66313f4539a140789d179d15752ef0f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746556061932
+status: 3
+tags: []
+user_id: ayman

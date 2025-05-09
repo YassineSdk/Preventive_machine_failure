@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/4258d4a539da49f3b06f8674752c373a/artifacts
+deleted_time: 1746550488548
+end_time: 1746549869001
+entry_point_name: ''
+experiment_id: '654710537243506926'
+lifecycle_stage: deleted
+run_id: 4258d4a539da49f3b06f8674752c373a
+run_name: xgboost_HPT
+run_uuid: 4258d4a539da49f3b06f8674752c373a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746549863757
+status: 3
+tags: []
+user_id: ayman

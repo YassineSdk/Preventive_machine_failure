@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/0/d5dab3233c34499582c0cf8cd32cfbdd/artifacts
+end_time: 1746489218182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5dab3233c34499582c0cf8cd32cfbdd
+run_name: XGBoost
+run_uuid: d5dab3233c34499582c0cf8cd32cfbdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746489217184
+status: 3
+tags: []
+user_id: ayman
