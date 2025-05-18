@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/315f517fa60b451b939197dd5947c1aa/artifacts
+deleted_time: 1747494923216
 end_time: 1746551378525
 entry_point_name: ''
 experiment_id: '654710537243506926'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 315f517fa60b451b939197dd5947c1aa
 run_name: xgboost_HPT
 run_uuid: 315f517fa60b451b939197dd5947c1aa

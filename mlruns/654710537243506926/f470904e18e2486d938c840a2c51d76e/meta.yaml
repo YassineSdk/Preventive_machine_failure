@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/f470904e18e2486d938c840a2c51d76e/artifacts
+deleted_time: 1747494923210
 end_time: 1746549032608
 entry_point_name: ''
 experiment_id: '654710537243506926'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f470904e18e2486d938c840a2c51d76e
 run_name: Random_forest_tunned
 run_uuid: f470904e18e2486d938c840a2c51d76e

@@ -1,0 +1,12 @@
+Pipeline(steps=[('processing',
+                 ColumnTransformer(transformers=[('num', StandardScaler(),
+                                                  ['Air temperature [K]',
+                                                   'Process temperature [K]',
+                                                   'Rotational speed [rpm]',
+                                                   'Torque [Nm]',
+                                                   'Tool wear [min]']),
+                                                 ('binary', 'passthrough',
+                                                  ['L', 'M', 'H', 'TWF', 'HDF',
+                                                   'OSF', 'RNF', 'PWF'])])),
+                ('smote', SMOTE(random_state=42)),
+                ('Random_model_v2', RandomForestClassifier(max_depth=10))])

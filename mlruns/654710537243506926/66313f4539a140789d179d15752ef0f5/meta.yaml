@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/66313f4539a140789d179d15752ef0f5/artifacts
+deleted_time: 1746921331744
 end_time: 1746556067954
 entry_point_name: ''
 experiment_id: '654710537243506926'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 66313f4539a140789d179d15752ef0f5
 run_name: lightgbm
 run_uuid: 66313f4539a140789d179d15752ef0f5

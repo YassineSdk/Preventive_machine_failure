@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/ayman/OneDrive/Documents/Data%20science%20projects/project/Preventive_machine_failure/mlruns/654710537243506926/866676a31d8c46d896e4a039e225bc63/artifacts
+deleted_time: 1747526616163
+end_time: 1747525350477
+entry_point_name: ''
+experiment_id: '654710537243506926'
+lifecycle_stage: deleted
+run_id: 866676a31d8c46d896e4a039e225bc63
+run_name: Random_forest_tuned_v3
+run_uuid: 866676a31d8c46d896e4a039e225bc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747525344672
+status: 3
+tags: []
+user_id: ayman
